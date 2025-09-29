@@ -1,12 +1,12 @@
 # MIT 6.092 Java 学习与练习
 
-本仓库记录我在学习 [MIT 6.092 Introduction to Programming in Java (IAP 2010)](https://ocw.mit.edu) 课程过程中的练习代码与笔记。
+这里记录我在学习 [MIT 6.092 Introduction to Programming in Java (IAP 2010)](https://ocw.mit.edu) 课程过程中的练习代码与笔记🥰
+目前正在学习中...会不定期更新仓库~
 
 
 ## 📚 内容说明
-- `LecX/`：按课程章节整理的练习代码（每个都有自己的 `src` 文件夹）。
-- `src/`：公共或主程序入口代码（如 `Main.java`）。
-- `.idea/`、`*.iml`：IDE 配置文件，默认在 `.gitignore` 中不提交。
+- `LecX/`：按课程章节整理的练习代码，包括课后作业。
+
 - `README.md`：本文件。
 - `LICENSE`：原创代码许可。
 - 后期可能会有课程笔记😶‍🌫️
@@ -21,4 +21,4 @@
 
 ## 📎 使用说明
 
-- 欢迎提交 issue 或 PR 交流。
+- 欢迎提交 issue 或 PR 交流呀
